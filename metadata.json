@@ -1,0 +1,6 @@
+{
+  "name": "Pista House — Luxury Hyderabadi Dining & Reservation System",
+  "description": "Official reservation portal and culinary showcase for Pista House (Boduppal / Uppal, Hyderabad). World-famous Haleem, royal Zafrani Dum Biryani, bakery, and real-time table management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
